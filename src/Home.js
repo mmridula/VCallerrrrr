@@ -52,7 +52,7 @@ const Home = () => {
                         <h1 className="text-[50px] md:text-[80px] text-white font-bold pt-12">
                             Video Conferencing App
                         </h1>
-                        <p className="text-[26px] text-white -mt-2">By Yash Kumar</p>
+                        <p className="text-[26px] text-white -mt-2">By Marudhara Mridula</p>
                     </div>
 
                     {/* Enter Code */}
