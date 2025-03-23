@@ -1,5 +1,5 @@
-<font color="#f79646">Deployed Link -</font> [(VCaller-)](https://vcaller-omega.vercel.app/)
-Github link - [yashkumar2603/vcaller (github.com)](https://github.com/yashkumar2603/vcaller)
+<font color="#f79646">Deployed Link -</font> [(VCaller-)](https://v-callerrrrr.vercel.app/)
+Github link - [mmridula/VCallerrrrr (github.com)](https://github.com/mmridula/VCallerrrrr)
 
 ### Problem Statement - 
 This is made for people who want to easily and quickly set up  an online meeting with multiple people without much hassle, in the browser itself.
